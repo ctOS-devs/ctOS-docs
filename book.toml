@@ -1,0 +1,10 @@
+[book]
+authors = ["justuser-31"]
+language = "ru"
+multilingual = false
+src = "src"
+title = "ctOS"
+
+[output.html]
+default-theme = "navy"
+additional-css = ["custom/custom.css"]
